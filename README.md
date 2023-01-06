@@ -20,11 +20,11 @@
 
 
 <table>
-    <td colspan=1 style="text-align: left;"><b><a href="URL_HERE">◾ Arduino-Project <br>[1. Water Level Sensor Project] [2. RealTimeClock LCD Project] [3. Piezo Buzzor Music Player Project] <br>[4. Remote Control Car Project with Bluetooth Moduel] </a></b></td>
-	<td><b>2022.01</b></td>
+<td>Arduino-Uno</td>
+	<td colspan=1 style="text-align: left;"><b><a href="URL_HERE">◾ [1. Water Level Sensor Project] [2. RealTimeClock LCD Project] [3. Piezo Buzzor Music Player Project] <br>[4. Remote Control Car Project with Bluetooth Moduel] </a></b></td>
 	<tr>
-    <td colspan=1 style="text-align: left;"><b><a href="URL_HERE">◾ Python-Camera Calibration Project  </a></b></td>
-	<td><b>2022.01</b></td>
+<td>Python-Open-CV</td>
+    <td colspan=1 style="text-align: left;"><b><a href="URL_HERE">◾ Camera Calibration Project  </a></b></td>
 	<tr>
 
 </table>
