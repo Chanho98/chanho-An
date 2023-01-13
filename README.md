@@ -15,16 +15,3 @@
 </p>
 
 
-### Project
-
-
-
-<table>
-<td>Arduino-Uno</td>
-	<td colspan=1 style="text-align: left;"><b><a href="URL_HERE">◾ [1. Water Level Sensor Project] [2. RealTimeClock LCD Project] [3. Piezo Buzzor Music Player Project] <br>[4. Remote Control Car Project with Bluetooth Moduel] </a></b></td>
-	<tr>
-<td>Python-Open-CV</td>
-    <td colspan=1 style="text-align: left;"><b><a href="URL_HERE">◾ Camera Calibration Project  </a></b></td>
-	<tr>
-
-</table>
